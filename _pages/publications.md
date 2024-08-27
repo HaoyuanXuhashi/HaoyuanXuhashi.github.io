@@ -1,5 +1,8 @@
 ---
 layout: archive
+title: "Working paper"
+permalink: /publications/
+author_profile: true
 title: "Publications"
 permalink: /publications/
 author_profile: true
